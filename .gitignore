@@ -1,6 +1,8 @@
 /MonoBleedingEdge
 /valheim_data
+BepInEx/cache
 steam_appid.txt
 UnityCrashHandler64.exe
 UnityPlayer.dll
 valheim.exe
+BepInEx/LogOutput.log
