@@ -1,0 +1,978 @@
+﻿[Message:   BepInEx] BepInEx 5.4.8.0 - valheim
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 12 plugins to load
+[Info   :   BepInEx] Loading [Craft From Containers 1.9.0]
+[Info   :   BepInEx] Loading [PlantingPlus 1.4.5]
+[Info   :   BepInEx] Loading [UnrestrictedPortals 1.3.1.0]
+[Info   :   BepInEx] Loading [Use Equipment in Water 0.2.1.0]
+[Info   :   BepInEx] Loading [Run Skill Give More Carry Weight 1.1.1]
+[Info   :Run Skill Give More Carry Weight] Trying to load configuration
+[Info   :Run Skill Give More Carry Weight] Succesfully loaded configuration
+[Info   :Run Skill Give More Carry Weight] Succesfully loaded Run Skill Give More Carry Weight 1.1.1
+[Info   :   BepInEx] Loading [Better Archery 1.2.1]
+[Info   :Better Archery] Loaded.
+[Info   :   BepInEx] Loading [BetterUI 1.5.1]
+[Info   :   BepInEx] Loading [MapSyncPlugin 1.0.0.0]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.4]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fireplace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key dataRate
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.4] is up to date.
+[Info   :   BepInEx] Loading [Quick Stack 0.6.3]
+[Info   :Quick Stack] Initializing Quick Stack.
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 1.0.4]
+[Info   :   BepInEx] Loading [RememberIPDamnit 0.2]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 03/12/2021 11:39:54: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/12/2021 11:40:03: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+
+[Info   : Unity Log] 03/12/2021 11:40:03: Using mountain distance: 1000
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:03: Render threading mode:LegacyJobified
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:03: Using environment steamid 892970
+
+[Info   : Unity Log] 03/12/2021 11:40:03: Using steam APPID:892970
+
+[Info   : Unity Log] 03/12/2021 11:40:03: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 03/12/2021 11:40:03: Steam initialized, persona:TheBearJew
+
+[Warning: Unity Log] 03/12/2021 11:40:03: Missing audio clip in music respawn
+
+[Info   : Unity Log] 03/12/2021 11:40:03: Checking for installed DLCs
+
+[Info   : Unity Log] 03/12/2021 11:40:03: DLC:beta installed:False
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:04: Loaded localization English
+
+[Info   : Unity Log] 03/12/2021 11:40:04: Loaded localization English
+
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (LeatherQuiver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_LeatherQuiver)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowWood)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_ArrowWoodAnywhere)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowFire)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_FireArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowPoison)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_PoisonArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowSilver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_SilverArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowFrost)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_FrostArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (LeatherQuiver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_LeatherQuiver)
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 03/12/2021 11:40:04: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+
+[Info   : Unity Log] [Planting+ v1.4.5 finished loading]
+[Info   : Unity Log] 03/12/2021 11:40:06: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/12/2021 11:40:10: show character selection
+
+[Info   : Unity Log] 03/12/2021 11:40:12: OnCharacterStart
+
+[Info   : Unity Log] 03/12/2021 11:40:22: connect to ip:192.168.86.2 port:2456
+
+[Info   : Unity Log] 03/12/2021 11:40:22: Serverlist does not contain selected server, clearing
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:23: Loading player profile jarham ii
+
+[Info   : Unity Log] 03/12/2021 11:40:23: Zonesystem Awake 1103
+
+[Info   : Unity Log] 03/12/2021 11:40:23: DungeonDB Awake 1103
+
+[Info   : Unity Log] 03/12/2021 11:40:23: Steam initialized, persona:TheBearJew
+
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (LeatherQuiver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_LeatherQuiver)
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 03/12/2021 11:40:23: Audioman already exist, destroying self
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:23: Checking for installed DLCs
+
+[Info   : Unity Log] 03/12/2021 11:40:23: DLC:beta installed:False
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Zonesystem Start 1103
+
+[Info   : Unity Log] 03/12/2021 11:40:26: DungeonDB Start 1103
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Connecting to server 192.168.86.2:2456
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Starting to connect to 192.168.86.2:2456
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/12/2021 11:40:26: New connection
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Connected
+
+[Info   : Unity Log] 03/12/2021 11:40:26: Got connection SteamID 90143959661041675
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:29: VERSION check their:0.147.3@0.9.4  mine:0.147.3@0.9.4
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:40:29: Initializing world generator seed:2wIIdIe2r0 ( -1040334883 )   menu:False  worldgen version:1
+
+[Info   : Unity Log] 03/12/2021 11:40:29: Using mountain distance: 1000
+
+[Info   : Unity Log] 03/12/2021 11:40:29: Found 531 mountain points
+
+[Info   : Unity Log] 03/12/2021 11:40:29: Remaining mountains:72
+
+[Info   : Unity Log] 03/12/2021 11:40:29: Calc time 21.9994 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:29: Found 8351 lake points
+
+[Info   : Unity Log] 03/12/2021 11:40:31: Remaining lakes:115
+
+[Info   : Unity Log] 03/12/2021 11:40:31: Calc time 1825.2005 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:31: Rivers:144
+
+[Info   : Unity Log] 03/12/2021 11:40:31: River buckets 14357
+
+[Info   : Unity Log] 03/12/2021 11:40:31: River render time 218.9746 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:31: River Calc time 233.9983 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:32: River buckets 23305
+
+[Info   : Unity Log] 03/12/2021 11:40:32: River render time 372.3858 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:32: Placed 1914 streams
+
+[Info   : Unity Log] 03/12/2021 11:40:32: Stream Calc time 866.973 ms
+
+[Info   : Unity Log] 03/12/2021 11:40:32: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+
+[Info   : Unity Log] 03/12/2021 11:40:32: client got keys 0
+
+[Info   : Unity Log] 03/12/2021 11:40:32: client got location icons
+
+[Info   : Unity Log] 03/12/2021 11:40:32: Icons:1
+
+[Info   : Unity Log] 03/12/2021 11:40:32: Session auth respons callback
+
+[Info   : Unity Log] 03/12/2021 11:40:41: Starting respawn
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [AdvancedBuildingMode]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enterAdvancedBuildingMode=F1
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: exitAdvancedBuildingMode=F3
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: copyObjectRotation=Keypad7
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: pasteObjectRotation=Keypad8
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [AdvancedEditingMode]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enterAdvancedEditingMode=Keypad0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: resetAdvancedEditingMode=F7
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: abortAndExitAdvancedEditingMode=F8
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: confirmPlacementOfAdvancedEditingMode=KeypadEnter
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: copyObjectRotation=Keypad7
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: pasteObjectRotation=Keypad8
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Beehive]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: honeyProductionSpeed=1200
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maximumHoneyPerBeehive=4
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Building]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: noInvalidPlacementRestriction=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: noWeatherDamage=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maximumPlacementDistance=5
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Camera]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cameraMaximumZoomDistance=6
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cameraBoatMaximumZoomDistance=6
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cameraFOV=65
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Experience]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: swords=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: knives=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: clubs=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: polearms=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: spears=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: blocking=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: axes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: bows=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: fireMagic=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: frostMagic=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: unarmed=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: pickaxes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: woodCutting=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: jump=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: sneak=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: run=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: swim=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Fermenter]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: fermenterDuration=2400
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: fermenterItemsProduced=6
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: showFermenterDuration=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Fireplace]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: onlyTorches=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Food]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: foodDurationMultiplier=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Furnace]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maximumOre=10
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maximumCoal=20
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: coalUsedPerProduct=2
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: productionSpeed=30
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: autoDeposit=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: autoDepositRange=10
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Game]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: gameDifficultyDamageScale=0.4
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: gameDifficultyHealthScale=0.4
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: extraPlayerCountNearby=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: setFixedPlayerCountTo=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: difficultyScaleRange=200
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disablePortals=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Hotkeys]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: rollForwards=F9
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: rollBackwards=F10
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Items]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: noTeleportPrevention=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: baseItemWeightReduction=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: itemStackMultiplier=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: droppedItemOnGroundDurationInSeconds=3600
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Hud]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: showRequiredItems=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: experienceGainedNotifications=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: displayStaminaValue=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: removeDamageFlash=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Gathering]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: dropChance=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: wood=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: stone=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: fineWood=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: coreWood=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: elderBark=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: ironScrap=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: tinOre=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: copperOre=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: silverOre=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: chitin=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Durability]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: axes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: pickaxes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: hammer=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cultivator=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: hoe=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: weapons=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: armor=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: bows=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: shields=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Armor]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: helmets=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: chests=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: legs=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: capes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Kiln]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maximumWood=20
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: productionSpeed=30
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: autoDeposit=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: autoDepositRange=10
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Map]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: shareMapProgression=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: exploreRadius=100
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: preventPlayerFromTurningOffPublicPosition=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Player]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: baseMaximumWeight=300
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: baseMegingjordBuff=150
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: baseAutoPickUpRange=2
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disableCameraShake=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: baseUnarmedDamage=120
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cropNotifier=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Server]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=true
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: maxPlayers=10
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disableServerPassword=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enforceMod=true
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: serverSyncsConfig=true
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: dataRate=60
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Stamina]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: dodgeStaminaUsage=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: encumberedStaminaDrain=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: jumpStaminaDrain=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: runStaminaDrain=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: sneakStaminaDrain=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: staminaRegen=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: staminaRegenDelay=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: swimStaminaDrain=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [StaminaUsage]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: axes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: blocking=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: bows=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: clubs=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: knives=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: pickaxes=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: polearms=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: spears=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: swords=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: unarmed=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: hammer=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: hoe=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: cultivator=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [StructuralIntegrity]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disableStructuralIntegrity=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disableDamageToPlayerStructures=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: wood=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: stone=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: iron=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: hardWood=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Time]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Ward]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: wardRange=20
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Workbench]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: workbenchRange=20
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: disableRoofCheck=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Wagon]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: wagonBaseMass=20
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: wagonExtraMassFromItems=0
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: [Inventory]
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: enabled=false
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: playerInventoryRows=15
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: woodChestColumns=5
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: woodChestRows=2
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: ironChestColumns=8
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: ironChestRows=3
+
+[Info   : Unity Log] 03/12/2021 11:40:41: CONFIGDATA: inventoryFillTopToBottom=false
+
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fireplace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key dataRate
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 03/12/2021 11:40:41: Successfully synced VPlus configuration from server.
+
+[Info   : Unity Log] 03/12/2021 11:40:41: tip:$loadscreen_tip18
+
+[Info   : Unity Log] 03/12/2021 11:40:43: Force generaeting hmap (128.0, 0.0, 0.0)
+
+[Info   : Unity Log] 03/12/2021 11:40:49: Spawned after 8.019994
+
+[Info   : Unity Log] 03/12/2021 11:40:49: Minimap: Adding unique location (1.6, 60.0, 0.7)
+
+[Info   : Unity Log] 03/12/2021 11:40:51: Resumed music meadows at 0
+
+[Info   : Unity Log] 03/12/2021 11:40:52: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:40:52: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:40:52: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:41:14: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:41:14: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:41:14: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:41:23: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:41:23: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:41:23: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:41:28: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:41:28: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:41:28: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:41:54: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 03/12/2021 11:41:55: Current res 2560x1366     2560x1366
+
+[Info   : Unity Log] 03/12/2021 11:41:55: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 03/12/2021 11:42:07: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 03/12/2021 11:42:15: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:42:15: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:42:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:42:17: Setting selected recipe -1
+
+[Info   : Unity Log] 03/12/2021 11:42:17: UI Group status changed root = True
+
+[Info   : Unity Log] 03/12/2021 11:42:17: UI Group status changed Player = True
+
+[Info   : Unity Log] 03/12/2021 11:42:20: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 03/12/2021 11:42:21: Current res 2560x1440     2560x1440
+
+[Info   : Unity Log] 03/12/2021 11:42:21: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 03/12/2021 11:42:28: Refresh complete 9358  eServerResponded
+
+[Info   : Unity Log] 03/12/2021 11:42:31: Current res 2560x1440     2560x1440
+
+[Info   : Unity Log] 03/12/2021 11:42:31: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 03/12/2021 11:42:32: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fireplace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key dataRate
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 03/12/2021 11:42:33: ZNet Shutdown
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Flushed 1 objects
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Sending disconnect msg
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Sent to 90143959661041675
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Released session ticket
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Disposing socket
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Closing socket 90143959661041675
+
+[Info   : Unity Log] 03/12/2021 11:42:33:   send queue size:0
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Last socket, unregistering callback
+
+[Info   : Unity Log] 03/12/2021 11:42:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Disposing socket
+
+[Info   : Unity Log] 03/12/2021 11:42:33: Last socket, unregistering callback
+
+[Info   : Unity Log] 03/12/2021 11:42:33: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Warning: Unity Log] 03/12/2021 11:42:34: Local player destroyed
+
+[Info   : Unity Log] 03/12/2021 11:42:35: ZNet OnDestroy
+
+[Info   : Unity Log] 03/12/2021 11:42:35: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/12/2021 11:42:35: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+
+[Info   : Unity Log] 03/12/2021 11:42:35: Using mountain distance: 1000
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:42:35: Render threading mode:LegacyJobified
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Info   : Unity Log] 03/12/2021 11:42:35: Steam initialized, persona:TheBearJew
+
+[Info   : Unity Log] 03/12/2021 11:42:35: Audioman already exist, destroying self
+
+[Info   : Unity Log] 03/12/2021 11:42:35: Checking for installed DLCs
+
+[Info   : Unity Log] 03/12/2021 11:42:35: DLC:beta installed:False
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.147.3@0.9.4
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (LeatherQuiver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_LeatherQuiver)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowWood)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_ArrowWoodAnywhere)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowFire)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_FireArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowPoison)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_PoisonArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowSilver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_SilverArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (ArrowFrost)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_FrostArrowTransform)
+[Warning: Unity Log] [PrefabCreator] Could not find item prefab (LeatherQuiver)
+[Error  : Unity Log] [PrefabCreator] Failed to create recipe (Recipe_LeatherQuiver)
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 03/12/2021 11:42:37: UI Group status changed Menu = True
+
+[Info   : Unity Log] 03/12/2021 11:42:38: Stoped music meadows at 4713407
+
+[Info   : Unity Log] 03/12/2021 11:42:39: show character selection
+
+[Info   : Unity Log] 03/12/2021 11:42:41: OnCharacterStart
+
+[Info   : Unity Log] 03/12/2021 11:42:50: show character selection
+
+[Info   : Unity Log] 03/12/2021 11:42:50: UI Group status changed SelectCharacter = True
+
+[Info   : Unity Log] 03/12/2021 11:42:52: UI Group status changed Menu = True
+
+[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack trace:
+System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+ItemDrop.OnDestroy () (at <f48d6a22696245bf8d820aad6afa4fdb>:0)
+
+[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack trace:
+System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+ItemDrop.OnDestroy () (at <f48d6a22696245bf8d820aad6afa4fdb>:0)
+
+[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack trace:
+System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
+ItemDrop.OnDestroy () (at <f48d6a22696245bf8d820aad6afa4fdb>:0)
+
+[Info   : Unity Log] 03/12/2021 11:42:54: Steam manager on destroy
+
